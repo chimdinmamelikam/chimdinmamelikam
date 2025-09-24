@@ -43,7 +43,7 @@ Beyond data, I also **design and develop beautiful portfolio websites** for tech
 
 ## 📫 Let's Connect
 📧 **Email**: [loismelikam@gmail.com](mailto:loismelikam@gmail.com)  
-🌐 **Portfolio**: [https://chimdinmamelikam.github.io/](https://chimdinmamelikam.github.io/)  
+🌐 **Portfolio**: [https://chimdinmamelikam.github.io](https://chimdinmamelikam.github.io)  
 💼 **LinkedIn**: [linkedin.com/in/loismelikam](https://www.linkedin.com/in/loismelikam)  
 
 ---
